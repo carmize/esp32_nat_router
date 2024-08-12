@@ -64,7 +64,7 @@ color: #fff;\
 </style>\
 <body>\
 <div id='config'>\
-<h1>ESP32 NAT Router Config</h1>\
+<h1> Router Config</h1>\
 <script>\
 if (window.location.search.substr(1) != '')\
 {\
